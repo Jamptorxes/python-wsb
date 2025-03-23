@@ -32,3 +32,8 @@ Wyjątek, który występuje, gdy próbujesz podzielić liczbę przez zero.
 Dzielenie przez zero jest matematycznie nieprawidłowe, więc Python zgłasza ten błąd, aby poinformować o błedzie. Przykład:
 
 `result = 10 / 0  # To spowoduje ZeroDivisionError`
+
+
+# Zadanie_2
+## Wynik z działania coverage - narzędzia do mierzenia pokrycia kodu
+![alt text](https://github.com/Jamptorxes/python-wsb/blob/main/zadanie_2/zadanie2.png)
